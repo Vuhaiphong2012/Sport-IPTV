@@ -63,3 +63,12 @@ http://149.202.215.151:8080/live/home/home/12411.ts
 https://7pal.short.gy/eusport1
 #EXTINF:-1 tvg-id="eurosport2(uk)" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest/scale-to-width-down/300?cb=20220417183127",Eurosport 2 (Anh)
 https://7pal.short.gy/eusport2
+
+#EXTINF:-1 tvg-id="beinsportsxtra" group-title="beIN Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest/scale-to-width-down/300?cb=20220417183127",beIN Sports Xtra
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8 
+#EXTINF:-1 tvg-id="beinsports1(th)" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png?20170228135319",beIN Sports 1 (Thái Lan)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8243
+#EXTINF:-1 tvg-id="beinsports2(th)" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png?20170228135704",beIN Sports 2 (Thái Lan)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8242
+#EXTINF:-1 tvg-id="beinsports3(th)" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png?20170228140009",beIN Sports 3 (Thái Lan)
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8241
