@@ -49,3 +49,17 @@ http://p1.cvtv.xyz/tnt3?token=live
 http://p1.cvtv.xyz/tnt4?token=live
 #EXTINF:-1 tvg-id="tntsports5" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/TNT_Sports_5_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718053007",TNT Sports 5
 http://p1.cvtv.xyz/tnt5?token=live
+#EXTINF:-1 tvg-id="tntsports6" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/TNT_Sports_6_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718052851",TNT Sports 6
+http://149.202.215.151:8080/live/home/home/12415.ts
+#EXTINF:-1 tvg-id="tntsports7" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TNT_Sports_7_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718052742",TNT Sports 7
+http://149.202.215.151:8080/live/home/home/12414.ts
+#EXTINF:-1 tvg-id="tntsports8" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/TNT_Sports_8_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718052525",TNT Sports 8
+http://149.202.215.151:8080/live/home/home/12413.ts
+#EXTINF:-1 tvg-id="tntsports9" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/TNT_Sports_9_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718052218",TNT Sports 9
+http://149.202.215.151:8080/live/home/home/12412.ts
+#EXTINF:-1 tvg-id="tntsports10" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_10_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718005920",TNT Sports 10
+http://149.202.215.151:8080/live/home/home/12411.ts
+#EXTINF:-1 tvg-id="eurosport1(uk)" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest/scale-to-width-down/300?cb=20220806090310",Eurosport 1 (Anh)
+https://7pal.short.gy/eusport1
+#EXTINF:-1 tvg-id="eurosport2(uk)" group-title="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest/scale-to-width-down/300?cb=20220417183127",Eurosport 2 (Anh)
+https://7pal.short.gy/eusport2
