@@ -9,15 +9,17 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40470.ts
 #EXTINF:-1 tvg-id="tsn5" group-title="TSN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest/scale-to-width-down/250?cb=20220218183502",TSN5
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40471.ts
 
-#EXTINF:-1 tvg-id="foxcricket" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest/scale-to-width-down/150?cb=20180916123020",Fox Cricket
+#EXTINF:-1 tvg-id="foxcricket" group-title="Fox Sports (Úc)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png?20210724000956",Fox Cricket
 https://xyzdddd.mizhls.ru/lb/premium369/index.m3u8
-#EXTINF:-1 tvg-id="foxleague" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Fox_League.svg/revision/latest/scale-to-width-down/250?cb=20170407161934",Fox League
+#EXTINF:-1 tvg-id="foxleague" group-title="Fox Sports (Úc)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fox_league.svg/406px-Fox_league.svg.png?20180527200500",Fox League
 https://7pal.short.gy/fox502au
 #EXTINF:-1 tvg-id="foxsports503" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/FoxSports503_HD.png/revision/latest?cb=20190709144525",Fox Sports 503
 https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="foxfooty" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Fox_Footy_2015.svg/revision/latest/scale-to-width-down/250?cb=20151222131315",Fox Footy
+#EXTINF:-1 tvg-id="foxfooty" group-title="Fox Sports (Úc)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/406px-Fox_Footy_logo_%282015%29.svg.png?20180527195718",Fox Footy
 https://7pal.short.gy/fox504au
 #EXTINF:-1 tvg-id="foxsports505" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FoxSports505_HD.png/revision/latest?cb=20190709150045",Fox Sports 505
+https://7pal.short.gy/fox505au
+#EXTINF:-1 tvg-id="foxnetball" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/FoxNetball_2022.svg/revision/latest/scale-to-width-down/250?cb=20220310115350",Fox Netball
 https://7pal.short.gy/fox505au
 #EXTINF:-1 tvg-id="foxsports506" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/FoxSports506_HD.png/revision/latest?cb=20190709150827",Fox Sports 506
 https://7pal.short.gy/fox506au
