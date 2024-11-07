@@ -27,3 +27,12 @@ https://7pal.short.gy/fox506au
 https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-id="foxsportsnews" group-title="Fox Sports (Úc)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Fox_Sports_News_2015.svg/revision/latest/scale-to-width-down/200?cb=20170407162021",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-id="nhlnetwork" group-title="NHL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/800px-NHL_Network_2012.svg.png?20230526134344",NHL Network
+https://7pal.short.gy/nhlnw
+
+#EXTINF:-1 tvg-id="mlbnetwork" group-title="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/311px-MLBNetworkLogo.svg.png?20180527185038",MLB Network
+https://7pal.short.gy/mlbnw
+
+#EXTINF:-1 tvg-id="sports181" group-title="Sports18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sports_18_1_HD.png/revision/latest/scale-to-width-down/150?cb=20240919035447",Sports18 1
+http://119.156.26.155:8000/play/a005/index.m3u8
