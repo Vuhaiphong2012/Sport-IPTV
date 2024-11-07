@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="tsn1" group-title="TSN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg/revision/latest?cb=20220218182931",TSN1
+#EXTINF:-1 tvg-id="tsn1" group-title="TSN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg/revision/latest/scale-to-width-down/300?cb=20220218182931",TSN1
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40467.ts
 #EXTINF:-1 tvg-id="tsn2" group-title="TSN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/TSN2_2014.svg/revision/latest/scale-to-width-down/250?cb=20220218183146",TSN2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40468.ts
