@@ -36,3 +36,5 @@ https://7pal.short.gy/mlbnw
 
 #EXTINF:-1 tvg-id="sports181" group-title="Sports18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sports_18_1_HD.png/revision/latest/scale-to-width-down/150?cb=20240919035447",Sports18 1
 http://119.156.26.155:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="sports18khel" group-title="Sports18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sports18_Khel.png/revision/latest/scale-to-width-down/250?cb=20240321204446",Sports18 Khel
+https://sports247.eu.org/api/app/live.php?id=1998&e=.m3u8
