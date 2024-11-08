@@ -99,3 +99,23 @@ http://xcwsnl28.mrnova.online/live/60039_.m3u8
 http://premiumiptvmk.com:8080/F19236/516c41c7/281536
 #EXTINF:-1 tvg-id="supersportgrandstand" group-title="SuperSport" tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png",SuperSport Grandstand
 http://premiumiptvmk.com:8080/F19236/516c41c7/194353
+#EXTINF:-1 tvg-id="supersportpsl" group-title="SuperSport" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png?width=1920&quality=90&format=webp",SuperSport PSL
+https://7pal.short.gy/spersppsl
+#EXTINF:-1 tvg-id="supersportpremierleague" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/203.svg",SuperSport Premier League
+https://7pal.short.gy/spersppl
+#EXTINF:-1 tvg-id="supersportlaliga" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/204.png",SuperSport La Liga
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 tvg-id="supersportfootball" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/205.png",SuperSport Football
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 tvg-id="supersportvariety1" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/206.png",SuperSport Variety 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/11633
+#EXTINF:-1 tvg-id="supersportvariety2" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/207.png",SuperSport Variety 2
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60578
+#EXTINF:-1 tvg-id="supersportvariety3" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/208.png",SuperSport Variety 3
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60579
+#EXTINF:-1 tvg-id="supersportvariety4" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/209.png",SuperSport Variety 4
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60580
+#EXTINF:-1 tvg-id="supersportaction" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/210.png",SuperSport Action
+https://7pal.short.gy/sperspat
+#EXTINF:-1 tvg-id="supersportrugby" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/210.png",SuperSport Rugby
+https://7pal.short.gy/spersprb
