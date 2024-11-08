@@ -123,3 +123,9 @@ https://7pal.short.gy/spersprb
 https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8
 #EXTINF:-1 tvg-id="supersportgolf" group-title="SuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxEGANweQEM6BnV4G4CI7r33qCy5gKRke8w&s",SuperSport Golf
 https://7pal.short.gy/sperspgf
+#EXTINF:-1 tvg-id="supersporttennis" group-title="SuperSport" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png",SuperSport Tennis
+https://7pal.short.gy/spersptns
+#EXTINF:-1 tvg-id="supersportmotorsport" group-title="SuperSport" tvg-logo="https://ia601807.us.archive.org/30/items/racinguk-01_202011/supersport-motorsport.png",SuperSport Motorsport
+https://7pal.short.gy/sperspmts
+#EXTINF:-1 tvg-id="supersportmáximo1" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/241.png",SuperSport Máximo 1 
+https://xyzdddd.mizhls.ru/lb/premium572/index.m3u8
