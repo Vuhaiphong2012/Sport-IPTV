@@ -117,5 +117,9 @@ http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60579
 http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/60580
 #EXTINF:-1 tvg-id="supersportaction" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/210.png",SuperSport Action
 https://7pal.short.gy/sperspat
-#EXTINF:-1 tvg-id="supersportrugby" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/210.png",SuperSport Rugby
+#EXTINF:-1 tvg-id="supersportrugby" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/211.png",SuperSport Rugby
 https://7pal.short.gy/spersprb
+#EXTINF:-1 tvg-id="supersportcricket" group-title="SuperSport" tvg-logo="https://devcdn.24.co.za/files/supersport/212.png",SuperSport Cricket
+https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8
+#EXTINF:-1 tvg-id="supersportgolf" group-title="SuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxEGANweQEM6BnV4G4CI7r33qCy5gKRke8w&s",SuperSport Golf
+https://7pal.short.gy/sperspgf
