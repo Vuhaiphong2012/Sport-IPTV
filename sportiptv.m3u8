@@ -94,3 +94,8 @@ http://xcwsnl28.mrnova.online/live/60037_.m3u8
 http://xcwsnl28.mrnova.online/live/60038_.m3u8
 #EXTINF:-1 tvg-id="beinsports7" group-title="beIN Sports" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/05/beIN_SPORTS7_Mono.png",beIN Sports 7
 http://xcwsnl28.mrnova.online/live/60039_.m3u8
+
+#EXTINF:-1 tvg-id="supersportblitz" group-title="SuperSport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/BlitzSS.png/revision/latest/scale-to-width-down/300?cb=20211021142234",SuperSport Blitz
+http://premiumiptvmk.com:8080/F19236/516c41c7/281536
+#EXTINF:-1 tvg-id="supersportgrandstand" group-title="SuperSport" tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png",SuperSport Grandstand
+http://premiumiptvmk.com:8080/F19236/516c41c7/194353
