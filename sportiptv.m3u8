@@ -72,3 +72,25 @@ http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8243
 http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8242
 #EXTINF:-1 tvg-id="beinsports3(th)" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png?20170228140009",beIN Sports 3 (Thái Lan)
 http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/8241
+#EXTINF:-1 tvg-id="beinsports1english" group-title="beIN Sports" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png",beIN Sports 1 English
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-id="beinsports2english" group-title="beIN Sports" tvg-logo="https://prod-media.beinsports.com/image/4cd31d31e16ac873f5f421d5880e88d6.128.png?ver=28-06-2024",beIN Sports 2 English
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
+#EXTINF:-1 tvg-id="beinsports2premium" group-title="beIN Sports" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png",beIN Sports 2 Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
+#EXTINF:-1 tvg-id="beinsports3premium" group-title="beIN Sports" tvg-logo="https://cbfszambia.com/tv//images/movie_1702006848.png",beIN Sports 3 Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
+#EXTINF:-1 tvg-id="beinsports1" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png?20170228135319",beIN Sports 1
+http://xcwsnl28.mrnova.online/live/60033_.m3u8
+#EXTINF:-1 tvg-id="beinsports2" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png?20170228135704",beIN Sports 2
+http://xcwsnl28.mrnova.online/live/60034_.m3u8
+#EXTINF:-1 tvg-id="beinsports3" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png?20170228140009",beIN Sports 3
+http://xcwsnl28.mrnova.online/live/60035_.m3u8
+#EXTINF:-1 tvg-id="beinsports4" group-title="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/798px-Logo_bein_sports_4.png?20170228140245",beIN Sports 4
+http://xcwsnl28.mrnova.online/live/60036_.m3u8
+#EXTINF:-1 tvg-id="beinsports5" group-title="beIN Sports" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/05/beIN_SPORTS5_Mono.png",beIN Sports 5
+http://xcwsnl28.mrnova.online/live/60037_.m3u8
+#EXTINF:-1 tvg-id="beinsports6" group-title="beIN Sports" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/08/106.jpg",beIN Sports 6
+http://xcwsnl28.mrnova.online/live/60038_.m3u8
+#EXTINF:-1 tvg-id="beinsports7" group-title="beIN Sports" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/05/beIN_SPORTS7_Mono.png",beIN Sports 7
+http://xcwsnl28.mrnova.online/live/60039_.m3u8
